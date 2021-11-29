@@ -7,4 +7,8 @@
 </div> 
 
 
-![Snake animation](https://github.com/ppedro20/ppedro20/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/
+randomGuyCoding
+/
+randomGuyCoding
+/blob/output/github-contribution-grid-snake.svg)
